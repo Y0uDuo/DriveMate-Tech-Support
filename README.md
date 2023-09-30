@@ -1,9 +1,5 @@
 # DriveMate App 技术支持
 
-![DriveMate App Screenshot 1]([https://imgur.com/a/M5ZBvJE]
-![DriveMate App Screenshot 2](URL_TO_YOUR_SCREENSHOT_2)
-![DriveMate App Screenshot 3](URL_TO_YOUR_SCREENSHOT_3)
-
 ## DriveMate App 功能介绍：
 
 - **全面的题库**：提供超过1000道中文模拟题，帮助您更好地准备驾照笔试。
@@ -18,10 +14,6 @@
 
 
 # DriveMate App Tech Support
-
-![DriveMate App Screenshot 1](URL_TO_YOUR_SCREENSHOT_1)
-![DriveMate App Screenshot 2](URL_TO_YOUR_SCREENSHOT_2)
-![DriveMate App Screenshot 3](URL_TO_YOUR_SCREENSHOT_3)
 
 ## DriveMate App Features:
 
