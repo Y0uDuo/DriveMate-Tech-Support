@@ -1,6 +1,6 @@
 # DriveMate App 技术支持
 
-![DriveMate App Screenshot 1](URL_TO_YOUR_SCREENSHOT_1)
+![DriveMate App Screenshot 1]([https://imgur.com/a/M5ZBvJE]
 ![DriveMate App Screenshot 2](URL_TO_YOUR_SCREENSHOT_2)
 ![DriveMate App Screenshot 3](URL_TO_YOUR_SCREENSHOT_3)
 
